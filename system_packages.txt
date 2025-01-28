@@ -1,0 +1,10 @@
+# System-level tools
+nmap
+dnsenum
+dirb
+gobuster
+sublist3r
+curl
+wget
+python3
+python3-pip
