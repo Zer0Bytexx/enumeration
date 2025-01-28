@@ -6,6 +6,7 @@ enumeration script for automation a basic enumerations including
     Dnsenum: Enumerates DNS records.
     Nmap: Scans open ports and services.
     Gobuster: Fuzzes directories on live subdomains using a wordlist.
+    
     The script saves all results in the enum_results directory, including:
         subdomains.txt: List of found subdomains.
         live_subdomains.txt: List of live subdomains.
